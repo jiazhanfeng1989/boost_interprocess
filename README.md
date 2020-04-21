@@ -1,5 +1,5 @@
-# boost_interprocess
-##boost_interprocess手册翻译资料
+# boost_interprocess翻译资料
+
 Boost.Interprocess使用手册翻译之一：介绍
 https://blog.csdn.net/great3779/article/details/7222195
 
